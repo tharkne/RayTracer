@@ -1,0 +1,12 @@
+﻿  tracer.cpp
+c:\users\trevor\source\repos\raytracer\raytracer\vec3.h(153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\vec3.h(161): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\sphere.h(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\sphere.h(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\sphere.h(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\hitable_list.h(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\tracer.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\trevor\source\repos\raytracer\raytracer\tracer.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\tracer.cpp(36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\trevor\source\repos\raytracer\raytracer\tracer.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracer.vcxproj -> C:\Users\Trevor\source\repos\RayTracer\Debug\RayTracer.exe
